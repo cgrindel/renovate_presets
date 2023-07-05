@@ -4,5 +4,6 @@
     ":semanticCommits",
     ":rebaseStalePrs",
     ":automergeAll"
-  ]
+  ],
+  "platformAutomerge": true
 }
