@@ -6,6 +6,5 @@
     ":automergeAll"
   ],
   "recreateWhen": "always",
-  "recreateClosed": true,
   "platformAutomerge": true
 }
